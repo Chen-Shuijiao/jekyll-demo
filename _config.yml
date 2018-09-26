@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 baseurl:/jekyll-demo
+=======
+baseurl: /jekyll-demo
+
+theme: jekyll-theme-minimal
+>>>>>>> 852cdbaa708effe1ac048bdfdb1bef76c15a8eda
